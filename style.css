@@ -115,7 +115,7 @@ section{
     cursor: pointer;
 }
 
-@media(max-widht:768px) {
+@media(max-width:768px) {
     .btn{
         display: block;
     }
